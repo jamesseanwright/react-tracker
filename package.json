@@ -1,0 +1,39 @@
+{
+  "name": "react-tracker",
+  "version": "0.0.1",
+  "description": "A web app for displaying pseudo-real-time events in the React GitHub repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://tbc"
+  },
+  "keywords": [
+    "react",
+    "spa",
+    "single-page-app",
+    "web",
+    "redux",
+    "rxjs"
+  ],
+  "author": "James Wright <james@jamesswright.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "2.2.0",
+    "koa-router": "7.1.1",
+    "react": "15.5.4",
+    "react-dom": "15.5.4",
+    "rxjs": "5.3.1"
+  },
+  "devDependencies": {
+    "babel-loader": "7.0.0",
+    "babel-preset-react": "6.24.1",
+    "css-loader": "0.28.1",
+    "eslint": "3.19.0",
+    "extract-text-webpack-plugin": "2.1.0",
+    "jest": "19.0.2",
+    "webpack": "2.5.0"
+  }
+}
